@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Piyush Shourie piyush.shourie@gmail.com
 
 # THANKS
 
